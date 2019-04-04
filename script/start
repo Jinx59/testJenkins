@@ -1,0 +1,3 @@
+cd ~/testJenkins
+node app.js 
+exit
